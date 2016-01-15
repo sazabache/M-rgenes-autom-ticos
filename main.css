@@ -1,0 +1,19 @@
+/* Escribe aqui tu CSS */
+.primero{
+	height: 160px;
+	width: 200px;
+	border: 15px solid #FCF642;
+	text-align: center;
+	padding: 50px 50px 60px 50px;
+
+
+}
+
+.segundo{
+	height: 160px;
+	width: 200px;
+	border: 15px solid #FCF642;
+	text-align: left;
+	padding: 50px 50px 60px 50px;
+	margin: auto;
+}
